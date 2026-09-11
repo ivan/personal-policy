@@ -1,4 +1,4 @@
-### My LLM-authored projects
+### LLM-authored projects
 
 I program both manually and with LLMs.
 
