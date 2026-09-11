@@ -8,7 +8,7 @@ All of my LLM-authored projects are clearly marked "LLM-authored" and via "Claud
 
 If your project is not a slop project, my pull requests will not be authored by LLMs, unless you say you want those.
 
-If your project is a slop project, my pull requests may be authored by LLMs and clearly marked as such in the commit.
+If your project is a slop project, my pull requests may be authored by LLMs and clearly marked as such in the commits.
 
 ### Sponsorships
 
