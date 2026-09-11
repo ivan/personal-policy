@@ -2,7 +2,9 @@
 
 I program both manually and with LLMs.
 
-All of my LLM-authored projects are clearly marked "LLM-authored" and via "Claude" / "OpenAI" / "ChatGPT" in the commits. I do not ever seek to pretend I've authored LLM outputs.
+I do not ever seek to pretend I've authored LLM outputs, therefore:
+
+All of my LLM-authored projects are clearly marked "LLM-authored" and via "Claude" / "OpenAI" / "ChatGPT" in the commits.
 
 ### Pull requests I make
 
