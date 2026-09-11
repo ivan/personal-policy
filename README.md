@@ -8,7 +8,11 @@ All of my LLM-authored projects are clearly marked "LLM-authored" and via "Claud
 
 #### No expectation of feedback
 
-I will attempt to author the PR correctly and match your existing code, but I understand that you are more familiar with your code, and may want to make the change yourself. Feedback is welcome if you want me to fix the PR, but I do not expect feedback; you are more than welcome to close my PR and do it yourself..
+I understand that time and attention are valuable, so I attempt to author PRs correctly and match your existing code.
+
+I understand that you are more familiar with your own code, and may want to make the change yourself.
+
+Feedback is welcome if you want me to fix a PR, but I do not expect feedback; you are more than welcome to close and re-do it without any hard feelings.
 
 #### Use of LLMs
 
