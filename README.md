@@ -12,7 +12,7 @@ I understand that time and attention are valuable, so I attempt to author PRs co
 
 I understand that you are more familiar with your own code, and may want to make the change yourself.
 
-Feedback is welcome if you want me to fix a PR, but I do not expect feedback; you are more than welcome to close and re-do it without any hard feelings.
+Feedback is welcome but entirely optional; you are more than welcome to close and re-do my PR.
 
 #### Use of LLMs
 
