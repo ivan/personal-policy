@@ -14,7 +14,7 @@ I understand that time and attention are valuable, so I attempt to author PRs co
 
 I understand that you are more familiar with your own code, and may want to make the change yourself.
 
-Feedback is welcome but not _expected_; you are more than welcome to close and re-do my PR.
+Feedback is welcome but not _expected_; please close and re-do my PR if that's easier for you.
 
 #### Use of LLMs
 
